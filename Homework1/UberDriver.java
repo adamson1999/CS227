@@ -1,6 +1,8 @@
 package hw1;
 
-\\@author Bryanna Adamson
+/*
+ * @author Bryanna Adamson
+ */
 
 public class UberDriver {
 
